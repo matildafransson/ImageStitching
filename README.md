@@ -8,6 +8,8 @@
         This projection stitching script returns an extended projection, which can then be used to reconstruct 
         the full large volume.
 
+        '![Projection Stitching](https://github.com/matildafransson/ImageStitching/blob/master/image3433.png?raw=true)'
+
         In the main, please define the following: 
 
         1. Define the paths to the datasets with the projections to be stitched, as path_1, path_2 .... path_n.
